@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Programmng\Trail array 1\Trail array 1\bin\Debug\Trail array 1.exe.config
+C:\Users\user\Desktop\Programmng\Trail array 1\Trail array 1\bin\Debug\Trail array 1.exe
+C:\Users\user\Desktop\Programmng\Trail array 1\Trail array 1\bin\Debug\Trail array 1.pdb
+C:\Users\user\Desktop\Programmng\Trail array 1\Trail array 1\bin\Debug\Trail array 1.xml
+C:\Users\user\Desktop\Programmng\Trail array 1\Trail array 1\obj\Debug\Trail array 1.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\Programmng\Trail array 1\Trail array 1\obj\Debug\Trail_array_1.Resources.resources
+C:\Users\user\Desktop\Programmng\Trail array 1\Trail array 1\obj\Debug\Trail array 1.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\Programmng\Trail array 1\Trail array 1\obj\Debug\Trail array 1.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programmng\Trail array 1\Trail array 1\obj\Debug\Trail array 1.exe
+C:\Users\user\Desktop\Programmng\Trail array 1\Trail array 1\obj\Debug\Trail array 1.xml
+C:\Users\user\Desktop\Programmng\Trail array 1\Trail array 1\obj\Debug\Trail array 1.pdb
+C:\Users\user\Desktop\Programmng\Trail array 1\Trail array 1\obj\Debug\Trail_array_1.Options.resources
+C:\Users\user\Desktop\Programmng\Trail array 1\Trail array 1\obj\Debug\Trail_array_1.Receipt.resources
